@@ -1,0 +1,7 @@
+name: Lightning
+version: '${project.version}'
+main: me.linuxheki.lightning.Main
+api-version: 1.17
+authors: [ LinuxHeki ]
+description: Make lightnings more dangerous
+website: https://github.com/linuxheki
